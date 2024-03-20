@@ -22,7 +22,7 @@ Computer Vision based based robotic arm.
 
 ### Hardware Setup
 
-1. Connect servos to your Arduino board(according to circuit diagram).
+1. Connect servos to your Arduino board.
 2. Upload the Arduino code (`Mimic_hand.ino`) to your Arduino board.
 
 ### Software Setup
